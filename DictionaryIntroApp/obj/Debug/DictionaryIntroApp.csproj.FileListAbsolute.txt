@@ -1,0 +1,6 @@
+D:\101193\2Appril\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.exe.config
+D:\101193\2Appril\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.exe
+D:\101193\2Appril\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.pdb
+D:\101193\2Appril\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.csprojResolveAssemblyReference.cache
+D:\101193\2Appril\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.exe
+D:\101193\2Appril\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.pdb
